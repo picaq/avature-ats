@@ -1,6 +1,10 @@
 # Avature ATS Web Scraper
 
+## Run the program
+
+
 ## Search for all avature.net subdomains
+
 1. google search query: 
 ```url
 inurl:avature.net
@@ -20,3 +24,14 @@ to get an updated list of `/whoisxmlapi.json` sign up and use their API:
 https://subdomains.whoisxmlapi.com/api/v1?apiKey=${API_KEY}&domainName=avature.net
 ```
 
+## Find all webpages within subdomain via robots.txt & sitemap
+https://bloomberg.avature.net/careers/sitemap.xml
+https://nva.avature.net/jobs/sitemap.xml
+
+https://vanoord.avature.net/careers ->
+  https://vanoord.avature.net/robots.txt ->
+    https://vanoord.avature.net/careers/sitemap_index.xml ->
+      https://vanoord.avature.net/en_US/careers/sitemap.xml 
+      https://vanoord.avature.net/nl_NL/careers/sitemap.xml 
+
+    
