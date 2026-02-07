@@ -1,0 +1,60 @@
+{
+	"search": "avature.net",
+	"result": {
+		"count": 1660,
+		"records": [
+			{
+				"domain": "docusign-innovage.avature.net",
+				"firstSeen": 1546628841,
+				"lastSeen": 1546628841
+			},
+			{
+				"domain": "auricobackgroundcheck-sandboxwilliamblair.avature.net",
+				"firstSeen": 1546619423,
+				"lastSeen": 1546619423
+			},
+			{
+				"domain": "ebibackgroundcheck-sandboxlawsonproducts.avature.net",
+				"firstSeen": 1572650964,
+				"lastSeen": 1572650964
+			},
+			{
+				"domain": "hackerrankassessmenttool-sandboxopentextats.avature.net",
+				"firstSeen": 1546633041,
+				"lastSeen": 1546633041
+			},
+			{
+				"domain": "sonruonlineinterview-integrationsqa.avature.net",
+				"firstSeen": 1546653988,
+				"lastSeen": 1546653988
+			},
+			{
+				"domain": "docusign-laitram.avature.net",
+				"firstSeen": 1565336933,
+				"lastSeen": 1565336933
+			},
+			{
+				"domain": "facadeechosigntestintegrationsqa.avature.net",
+				"firstSeen": 1570346790,
+				"lastSeen": 1570346790
+			},
+			{
+				"domain": "broadbeanjobexport-sandboxpmi.avature.net",
+				"firstSeen": 1546621946,
+				"lastSeen": 1546621946
+			},
+			{
+				"domain": "fieldglassrequisitionimport-integrationsqa.avature.net",
+				"firstSeen": 1567842778,
+				"lastSeen": 1567842778
+			},
+			{
+				"domain": "tesla.avature.net",
+				"firstSeen": 1642677464,
+				"lastSeen": 1698346004
+			}
+		],
+		"blurredRecordsCount": 1650
+	},
+	"blurringReason": "unpaid"
+}
