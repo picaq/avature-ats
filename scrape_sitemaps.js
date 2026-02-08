@@ -138,7 +138,7 @@ async function processSitemap(sitemapUrl, indexUrl, depth = 0) {
     }
     
     // Separate URLs into two categories
-    const jobDetailUrls = urls.filter(url => url.includes('JobDetail'));
+    const jobDetailUrls = urls.filter(url => url.includes('JobDetail\/'));
     const nestedSitemapUrls = urls.filter(url => url.includes('/sitemap') && !url.includes('JobDetail'));
     
     // Process nested sitemaps recursively
