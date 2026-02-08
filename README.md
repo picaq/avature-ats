@@ -35,7 +35,15 @@ outputs sitemap_data.json and job_urls.txt
 Total job URLs found: 94003
 Unique job URLs: 73645
 
-koch links needed to be manually extracted from its sitemap via the browser console
+koch links needed to be manually extracted from its sitemap via the browser console then appended to the end of job_urls.txt to generate input_file.txt
+
+https://koch.avature.net/en_US/careers/sitemap.xml
+this was run on the koch sitemap to generate the kochJobs array in koch_job_urls.js
+
+```js
+const kochJobs = [...document.querySelectorAll('url loc')].map(x => x.innerHTML).filter(x => x.match("/JobDetail/"));
+kochJobs;
+```
 
 93577 job URLs in total
 

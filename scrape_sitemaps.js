@@ -1,5 +1,7 @@
 const fs = require('fs');
 
+import kochJobs from './koch_job_urls.js';
+
 // Sitemap indexes from the user
 const sitemapIndexes = [
   "https://careers.ibm.com/careers/sitemap_index.xml",
@@ -219,6 +221,10 @@ async function scrapeSitemaps() {
   fs.writeFileSync(outputFile, allJobUrls.join('\n'));
   console.log(`\n✓ Saved all URLs to ${outputFile}`);
   
+  const uniqueOutputFile = 'input_file.txt';
+  fs.writeFileSync(uniqueOutputFile, Array.from(new Set([...allJobUrls, ...kochJobs])).join('\n'));
+  console.log(`✓ Saved unique URLs to ${uniqueOutputFile}`);
+
   // Save structured data to JSON
   const jsonFile = 'sitemap_data.json';
   fs.writeFileSync(jsonFile, JSON.stringify(sitemapData, null, 2));
@@ -230,7 +236,9 @@ async function scrapeSitemaps() {
   stats += `============================\n\n`;
   stats += `Total sitemap indexes processed: ${sitemapIndexes.length}\n`;
   stats += `Total job URLs found: ${allJobUrls.length}\n`;
-  stats += `Unique job URLs: ${new Set(allJobUrls).size}\n\n`;
+  stats += `Unique job URLs: ${new Set(allJobUrls).size}\n`;
+  stats += `Koch job URLs: ${kochJobs.length}\n`;
+  stats += `Total unique job URLs (including Koch): ${new Set([...allJobUrls, ...kochJobs]).size}\n\n`;
   stats += `Breakdown by sitemap index:\n`;
   stats += `---------------------------\n`;
   
