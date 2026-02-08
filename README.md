@@ -1,8 +1,8 @@
 # Avature ATS Web Scraper
 
-## Run the program
+## Run the subdomain and application URL gathering process
 
-1. filters out all subdomains to last seen in 90 days and has either a response status of OK or redirect. prints results into the console, alongside the number of valid avature subdomains (100 unique URLs here)
+1. filters out all subdomains from WhoisXML API to last seen in 90 days (as of February 7 2026) and has either a response status of OK or redirect. prints results into the console, alongside the number of valid avature subdomains (100 unique subdomains here)
 
 ```sh
 node jsonParse.js
@@ -17,7 +17,7 @@ node find_sitemaps.js
 
 creates a list of `https://subdomain.avature.net/careers/sitemap_index.xml` or `https://subdomain.avature.net/jobs/sitemap_index.xml` alongside redirected pages' sitemap_index.xml
 
-3. compile all job urls from each sitemap. <br> will take some time but much less time than step 2
+3. compile all job urls from each sitemap. <br> this will take some time but much less time than step 2
 
 process each `https://subdomain.avature.net/careers/sitemap_index.xml` into `https://subdomain.avature.net/careers/sitemap.xml` to grab all valid job application links
 
@@ -31,7 +31,7 @@ Unique job URLs: 73645
 
 koch links needed to be manually extracted from its sitemap via the browser console
 
-
+93577 job URLs in total
 
 # Development Process
 
