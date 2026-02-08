@@ -59,6 +59,7 @@ https://subdomains.whoisxmlapi.com/api/v1?apiKey=${API_KEY}&domainName=avature.n
 ```
 
 ## 2. Endpoint Discovery: Find all webpages within subdomain via robots.txt & sitemap
+
 https://bloomberg.avature.net/careers/sitemap.xml
 https://nva.avature.net/jobs/sitemap.xml
 
