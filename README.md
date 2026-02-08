@@ -8,7 +8,7 @@ npm install --save got jsdom
 
 ## Run the subdomain and application URL gathering process
 
-1. filters out all subdomains from WhoisXML API to last seen in 90 days (as of February 7 2026) and has either a response status of OK or redirect. prints results into the console, alongside the number of valid avature subdomains (100 unique subdomains here)
+1. filters out all subdomains from WhoisXML API to last seen in 90 days (as of February 7 2026) and has either a response status of OK or redirect. prints results into the console, alongside the number of valid avature subdomains (100 unique subdomains here, but may vary if you modify the)
 
 ```sh
 node jsonParse.js
@@ -32,8 +32,8 @@ node scrape_sitemaps.js
 ```
 outputs sitemap_data.json and job_urls.txt
 
-Total job URLs found: 94003
-Unique job URLs: 73645
+Total job URLs found in input_file.txt: 94003
+Unique job URLs: 73645 (? could be from a previous scrape)
 
 koch links needed to be manually extracted from its sitemap via the browser console then appended to the end of job_urls.txt to generate input_file.txt
 
@@ -45,9 +45,20 @@ const kochJobs = [...document.querySelectorAll('url loc')].map(x => x.innerHTML)
 kochJobs;
 ```
 
-93577 job URLs in total
+95250 job URLs in total. no time to remove duplicates in large data set
 
 used to generate the **Input File**: `input_file.txt`
+
+4. convert all job urls into json with data
+
+```js
+node generateOutputFile.js 
+```
+to generate structured JSON in `output_file.json` from `input_file.txt`
+
+for 94003 job applicationURLs: 
+94003 seconds is 26.11 hours to generate the output_file.json if 1 second per job application URL fetch
+at 100ms each 9400.3 seconds is 2.61 hours which is more feasible but still takes a very long time.
 
 # Development Process
 
@@ -101,3 +112,7 @@ https://subdomain.avature.net/careers/sitemap_index.xml
 For each https://subdomain.avature.net/*/careers/sitemap.xml or
 For each https://subdomain.avature.net/*/jobs/sitemap.xml
 [...document.querySelectorAll('url loc')].map(x => x.innerHTML).filter(x => x.match("/JobDetail/")).forEach( x => console.log(x))
+
+## 3. hand-sketch data transformation process
+
+did not end up using the same exact data structure/format, but it was still helpful to visualize it

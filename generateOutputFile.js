@@ -109,8 +109,7 @@ const applicationData = [];
         Location: ""
       });
     }
-
-    await wait(500); // delay between requests
+    await wait(100); // delay between requests
   }
 
   console.log(`applicationURLs count: ${applicationData.length}`);

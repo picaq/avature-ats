@@ -1,6 +1,5 @@
+// import kochJobs from './koch_job_urls.js';
 const fs = require('fs');
-
-import kochJobs from './koch_job_urls.js';
 
 // Sitemap indexes from the user
 const sitemapIndexes = [
@@ -220,25 +219,27 @@ async function scrapeSitemaps() {
   const outputFile = 'job_urls.txt';
   fs.writeFileSync(outputFile, allJobUrls.join('\n'));
   console.log(`\n✓ Saved all URLs to ${outputFile}`);
-  
-  const uniqueOutputFile = 'input_file.txt';
-  fs.writeFileSync(uniqueOutputFile, Array.from(new Set([...allJobUrls, ...kochJobs])).join('\n'));
-  console.log(`✓ Saved unique URLs to ${uniqueOutputFile}`);
+
+  // need to decide on js modules befoe combining this
+  // const uniqueOutputFile = 'input_file.txt';
+  // fs.writeFileSync(uniqueOutputFile, Array.from(new Set([...allJobUrls, ...kochJobs])).join('\n'));
+  // console.log(`✓ Saved unique URLs to ${uniqueOutputFile}`);
 
   // Save structured data to JSON
-  const jsonFile = 'sitemap_data.json';
+  const jsonFile = 'logs-old-data/sitemap_data.json';
   fs.writeFileSync(jsonFile, JSON.stringify(sitemapData, null, 2));
   console.log(`✓ Saved structured data to ${jsonFile}`);
   
   // Save summary statistics
-  const statsFile = 'statistics.txt';
+  const statsFile = 'logs-old-data/statistics.txt';
   let stats = `Sitemap Scraping Statistics\n`;
   stats += `============================\n\n`;
   stats += `Total sitemap indexes processed: ${sitemapIndexes.length}\n`;
   stats += `Total job URLs found: ${allJobUrls.length}\n`;
   stats += `Unique job URLs: ${new Set(allJobUrls).size}\n`;
-  stats += `Koch job URLs: ${kochJobs.length}\n`;
-  stats += `Total unique job URLs (including Koch): ${new Set([...allJobUrls, ...kochJobs]).size}\n\n`;
+  // stats += `Koch job URLs: ${kochJobs.length}\n`;
+  stats += `Total unique job URLs: ${new Set([...allJobUrls]).size}\n\n`;
+  // stats += `Total unique job URLs (including Koch): ${new Set([...allJobUrls, ...kochJobs]).size}\n\n`;
   stats += `Breakdown by sitemap index:\n`;
   stats += `---------------------------\n`;
   
