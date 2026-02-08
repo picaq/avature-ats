@@ -60,6 +60,10 @@ for 94003 job applicationURLs:
 94003 seconds is 26.11 hours to generate the output_file.json if 1 second per job application URL fetch
 at 100ms each 9400.3 seconds is 2.61 hours which is more feasible but still takes a very long time.
 
+I should have scraped one or two from each subdomain to inspect that the Job Title matched the correct query selector or html tags/classes. I saw in passing that there was a different header in place of Job Title for a series of jobs.
+
+Printing a truncated version of the description to the console instead of the whole thing would help with checking the Job Title validity/match.
+
 # Development Process
 
 ## 1. Avature Site Discovery
