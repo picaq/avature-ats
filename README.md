@@ -18,7 +18,7 @@ creates a list of `https://subdomain.avature.net/careers`
 2. will take a long time: find sitemap indexes for each valid avature subdomain using robots.txt, then filter them only if they contain "careers" or "jobs"
 
 ```sh
-node find_sitemaps.js                              
+node find_job_sitemap_indexes.js                  
 ```
 
 creates a list of `https://subdomain.avature.net/careers/sitemap_index.xml` or `https://subdomain.avature.net/jobs/sitemap_index.xml` alongside redirected pages' sitemap_index.xml
