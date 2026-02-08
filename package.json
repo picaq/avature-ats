@@ -1,0 +1,22 @@
+{
+  "name": "avature-sitemap-finder",
+  "version": "1.0.0",
+  "description": "Find sitemap.xml URLs for Avature career sites",
+  "main": "find_sitemaps.js",
+  "scripts": {
+    "start": "node find_sitemaps.js",
+    "find": "node find_sitemaps.js"
+  },
+  "keywords": [
+    "sitemap",
+    "avature",
+    "careers",
+    "jobs",
+    "scraper"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}

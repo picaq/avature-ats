@@ -1,0 +1,3179 @@
+[
+  {
+    "baseUrl": "https://epic.avature.net/careers",
+    "foundSitemaps": [],
+    "checkedUrls": [
+      {
+        "url": "https://epic.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://epic.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://epic.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://epic.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://uatashfieldhealthcare.avature.net/careers",
+    "foundSitemaps": [
+      "https://uatashfieldhealthcare.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://uatashfieldhealthcare.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://uatashfieldhealthcare.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://uatashfieldhealthcare.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://uatashfieldhealthcare.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://dell2.avature.net/careers",
+    "foundSitemaps": [],
+    "checkedUrls": [
+      {
+        "url": "https://dell2.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://dell2.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://dell2.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://dell2.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://ibmglobal.avature.net/careers",
+    "foundSitemaps": [
+      "https://careers.ibm.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://ibmglobal.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://ibmglobal.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://ibmglobal.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://ibmglobal.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://mclaren.avature.net/careers",
+    "foundSitemaps": [
+      "https://mclarencareers.mclaren.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://mclaren.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mclaren.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mclaren.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mclaren.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://enel.avature.net/careers",
+    "foundSitemaps": [
+      "https://jobs.enel.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://enel.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://enel.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://enel.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://enel.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://bloomberg.avature.net/careers",
+    "foundSitemaps": [
+      "https://bloomberg.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://bloomberg.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://bloomberg.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://bloomberg.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://bloomberg.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://maximus.avature.net/careers",
+    "foundSitemaps": [
+      "https://maximus.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://maximus.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://maximus.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://maximus.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://maximus.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://regis.avature.net/careers",
+    "foundSitemaps": [
+      "https://regis.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://regis.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://regis.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://regis.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://regis.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://sandboxashfieldhealthcare.avature.net/careers",
+    "foundSitemaps": [
+      "https://sandboxashfieldhealthcare.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://sandboxashfieldhealthcare.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxashfieldhealthcare.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxashfieldhealthcare.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxashfieldhealthcare.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://laplanduk.avature.net/careers",
+    "foundSitemaps": [
+      "https://laplanduk.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://laplanduk.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://laplanduk.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://laplanduk.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://laplanduk.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://deloitteus.avature.net/careers",
+    "foundSitemaps": [
+      "https://apply.deloitte.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://deloitteus.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://deloitteus.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://deloitteus.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://deloitteus.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://mckinsey.avature.net/careers",
+    "foundSitemaps": [],
+    "checkedUrls": [
+      {
+        "url": "https://mckinsey.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mckinsey.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mckinsey.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mckinsey.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://uclahealth.avature.net/careers",
+    "foundSitemaps": [
+      "https://uclahealth.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://uclahealth.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://uclahealth.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://uclahealth.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://uclahealth.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://xerox.avature.net/careers",
+    "foundSitemaps": [
+      "https://xerox.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://xerox.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://xerox.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://xerox.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://xerox.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://gpshospitality.avature.net/careers",
+    "foundSitemaps": [
+      "https://gpshospitality.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://gpshospitality.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://gpshospitality.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://gpshospitality.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://gpshospitality.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://ea.avature.net/careers",
+    "foundSitemaps": [
+      "https://jobs.ea.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://ea.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://ea.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://ea.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://ea.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://pepsicoglobalpontoon.avature.net/careers",
+    "foundSitemaps": [
+      "https://pepsicoglobalpontoon.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://pepsicoglobalpontoon.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://pepsicoglobalpontoon.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://pepsicoglobalpontoon.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://pepsicoglobalpontoon.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://amswh.avature.net/careers",
+    "foundSitemaps": [
+      "https://amswh.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://amswh.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://amswh.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://amswh.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://amswh.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://manpowergroupco.avature.net/careers",
+    "foundSitemaps": [
+      "https://manpowergroupco.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://manpowergroupco.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://manpowergroupco.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://manpowergroupco.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://manpowergroupco.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://unifi.avature.net/careers",
+    "foundSitemaps": [
+      "https://unifi.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://unifi.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://unifi.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://unifi.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://unifi.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://deloittebe.avature.net/careers",
+    "foundSitemaps": [
+      "https://deloittebe.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://deloittebe.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://deloittebe.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://deloittebe.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://deloittebe.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://sandboxsantos.avature.net/careers",
+    "foundSitemaps": [
+      "https://sandboxsantos.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://sandboxsantos.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxsantos.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxsantos.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxsantos.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://westrockta.avature.net/careers",
+    "foundSitemaps": [],
+    "checkedUrls": [
+      {
+        "url": "https://westrockta.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://westrockta.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://westrockta.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://westrockta.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://cdcn.avature.net/careers",
+    "foundSitemaps": [
+      "https://cdcn.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://cdcn.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://cdcn.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://cdcn.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://cdcn.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://mgl.avature.net/careers",
+    "foundSitemaps": [
+      "https://recruitment.macquarie.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://mgl.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mgl.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mgl.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mgl.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://workmyway.avature.net/careers",
+    "foundSitemaps": [
+      "https://emea.workmyway.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://workmyway.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://workmyway.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://workmyway.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://workmyway.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://fonterrakf.avature.net/careers",
+    "foundSitemaps": [
+      "https://careers.fonterra.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://fonterrakf.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://fonterrakf.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://fonterrakf.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://fonterrakf.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://monadelphous.avature.net/careers",
+    "foundSitemaps": [
+      "https://jobs.monadelphous.com.au/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://monadelphous.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://monadelphous.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://monadelphous.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://monadelphous.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://deloittecm.avature.net/careers",
+    "foundSitemaps": [
+      "https://deloittecm.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://deloittecm.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://deloittecm.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://deloittecm.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://deloittecm.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://sandboxea.avature.net/careers",
+    "foundSitemaps": [
+      "https://sandboxea.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://sandboxea.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxea.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxea.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxea.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://aesc.avature.net/careers",
+    "foundSitemaps": [
+      "https://jobs.aesc-group.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://aesc.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://aesc.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://aesc.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://aesc.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://plantemoran.avature.net/careers",
+    "foundSitemaps": [
+      "https://plantemoran.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://plantemoran.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://plantemoran.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://plantemoran.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://plantemoran.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://tesco.avature.net/careers",
+    "foundSitemaps": [
+      "https://careers.tesco.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://tesco.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://tesco.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://tesco.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://tesco.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://auspost.avature.net/careers",
+    "foundSitemaps": [
+      "https://jobs.auspost.com.au/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://auspost.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://auspost.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://auspost.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://auspost.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://mantech.avature.net/careers",
+    "foundSitemaps": [
+      "https://careers.mantech.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://mantech.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mantech.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mantech.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mantech.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://harmanglobal.avature.net/careers",
+    "foundSitemaps": [
+      "https://jobsearch.harman.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://harmanglobal.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://harmanglobal.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://harmanglobal.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://harmanglobal.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://coeint.avature.net/careers",
+    "foundSitemaps": [
+      "https://coeint.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://coeint.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://coeint.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://coeint.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://coeint.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://astellas.avature.net/careers",
+    "foundSitemaps": [
+      "https://astellas.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://astellas.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://astellas.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://astellas.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://astellas.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://mikloswiki.avature.net/careers",
+    "foundSitemaps": [],
+    "checkedUrls": [
+      {
+        "url": "https://mikloswiki.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mikloswiki.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mikloswiki.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mikloswiki.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://eventregistrationeu.avature.net/careers",
+    "foundSitemaps": [],
+    "checkedUrls": [
+      {
+        "url": "https://eventregistrationeu.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://eventregistrationeu.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://eventregistrationeu.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://eventregistrationeu.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://onecall.avature.net/careers",
+    "foundSitemaps": [
+      "https://onecall.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://onecall.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://onecall.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://onecall.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://onecall.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://intercaretherapy.avature.net/careers",
+    "foundSitemaps": [
+      "https://intercaretherapy.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://intercaretherapy.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://intercaretherapy.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://intercaretherapy.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://intercaretherapy.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://fortress.avature.net/careers",
+    "foundSitemaps": [
+      "https://fortress.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://fortress.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://fortress.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://fortress.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://fortress.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://delta.avature.net/careers",
+    "foundSitemaps": [
+      "https://delta.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://delta.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://delta.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://delta.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://delta.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://lockheedmartin.avature.net/careers",
+    "foundSitemaps": [],
+    "checkedUrls": [
+      {
+        "url": "https://lockheedmartin.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://lockheedmartin.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://lockheedmartin.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://lockheedmartin.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://sandboxtesco.avature.net/careers",
+    "foundSitemaps": [
+      "https://sandboxtesco.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://sandboxtesco.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxtesco.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxtesco.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxtesco.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://justicejobs.avature.net/careers",
+    "foundSitemaps": [
+      "https://jobs.justice.gov.uk/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://justicejobs.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://justicejobs.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://justicejobs.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://justicejobs.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://infor.avature.net/careers",
+    "foundSitemaps": [],
+    "checkedUrls": [
+      {
+        "url": "https://infor.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://infor.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://infor.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://infor.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://astellasjapan.avature.net/careers",
+    "foundSitemaps": [
+      "https://astellasjapan.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://astellasjapan.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://astellasjapan.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://astellasjapan.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://astellasjapan.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://insperity.avature.net/careers",
+    "foundSitemaps": [
+      "https://insperity.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://insperity.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://insperity.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://insperity.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://insperity.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://sandboxsmurfitwestrockta.avature.net/careers",
+    "foundSitemaps": [
+      "https://sandboxsmurfitwestrockta.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://sandboxsmurfitwestrockta.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxsmurfitwestrockta.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxsmurfitwestrockta.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxsmurfitwestrockta.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://transcom.avature.net/careers",
+    "foundSitemaps": [
+      "https://apply.careers.transcom.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://transcom.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://transcom.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://transcom.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://transcom.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://jrg.avature.net/careers",
+    "foundSitemaps": [
+      "https://jrg.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://jrg.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://jrg.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://jrg.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://jrg.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://ally.avature.net/careers",
+    "foundSitemaps": [
+      "https://ally.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://ally.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://ally.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://ally.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://ally.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://genpact.avature.net/careers",
+    "foundSitemaps": [],
+    "checkedUrls": [
+      {
+        "url": "https://genpact.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://genpact.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://genpact.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://genpact.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://nva.avature.net/careers",
+    "foundSitemaps": [
+      "https://nva.avature.net/jobs/sitemap_index.xml",
+      "https://nva.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://nva.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://nva.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://nva.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://nva.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://amspsr.avature.net/careers",
+    "foundSitemaps": [
+      "https://amspsr.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://amspsr.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://amspsr.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://amspsr.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://amspsr.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://ciusss.avature.net/careers",
+    "foundSitemaps": [
+      "https://ciusss.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://ciusss.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://ciusss.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://ciusss.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://ciusss.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://twosigma.avature.net/careers",
+    "foundSitemaps": [
+      "https://careers.twosigma.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://twosigma.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://twosigma.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://twosigma.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://twosigma.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://santos.avature.net/careers",
+    "foundSitemaps": [
+      "https://recruitment.santos.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://santos.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://santos.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://santos.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://santos.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://radpartners.avature.net/careers",
+    "foundSitemaps": [
+      "https://radpartners.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://radpartners.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://radpartners.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://radpartners.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://radpartners.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://vanoord.avature.net/careers",
+    "foundSitemaps": [
+      "https://vanoord.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://vanoord.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://vanoord.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://vanoord.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://vanoord.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://advocateaurorahealth.avature.net/careers",
+    "foundSitemaps": [
+      "https://clinicianjobs.advocatehealth.org/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://advocateaurorahealth.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://advocateaurorahealth.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://advocateaurorahealth.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://advocateaurorahealth.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://zungfu.avature.net/careers",
+    "foundSitemaps": [
+      "https://zungfu.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://zungfu.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://zungfu.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://zungfu.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://zungfu.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://a2milkkf.avature.net/careers",
+    "foundSitemaps": [
+      "https://a2milkkf.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://a2milkkf.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://a2milkkf.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://a2milkkf.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://a2milkkf.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://telusinternational.avature.net/careers",
+    "foundSitemaps": [
+      "https://jobs.telusdigital.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://telusinternational.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://telusinternational.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://telusinternational.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://telusinternational.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://fb.avature.net/careers",
+    "foundSitemaps": [
+      "https://careers.fbcareers.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://fb.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://fb.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://fb.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://fb.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://loa.avature.net/careers",
+    "foundSitemaps": [
+      "https://career.loreal.com/careers/sitemap_index.xml",
+      "https://careers.loreal.com/jobs/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://loa.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://loa.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://loa.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://loa.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://sparknz.avature.net/careers",
+    "foundSitemaps": [
+      "https://careers.sparknz.co.nz/careers/sitemap_index.xml",
+      "https://careers.entelargroup.co.nz/jobs/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://sparknz.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sparknz.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sparknz.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sparknz.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://kpmgireland.avature.net/careers",
+    "foundSitemaps": [
+      "https://kpmgireland.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://kpmgireland.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://kpmgireland.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://kpmgireland.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://kpmgireland.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://boozallen.avature.net/careers",
+    "foundSitemaps": [
+      "https://careers.boozallen.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://boozallen.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://boozallen.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://boozallen.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://boozallen.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://travisperkins.avature.net/careers",
+    "foundSitemaps": [],
+    "checkedUrls": [
+      {
+        "url": "https://travisperkins.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://travisperkins.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://travisperkins.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://travisperkins.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://rohdeschwarz.avature.net/careers",
+    "foundSitemaps": [
+      "https://jobs.rohde-schwarz.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://rohdeschwarz.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://rohdeschwarz.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://rohdeschwarz.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://rohdeschwarz.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://tennet.avature.net/careers",
+    "foundSitemaps": [
+      "https://careers.tennet.eu/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://tennet.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://tennet.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://tennet.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://tennet.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://cbreglobal.avature.net/careers",
+    "foundSitemaps": [
+      "https://careers.cbre.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://cbreglobal.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://cbreglobal.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://cbreglobal.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://cbreglobal.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://uskpmgats.avature.net/careers",
+    "foundSitemaps": [
+      "https://uskpmgats.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://uskpmgats.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://uskpmgats.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://uskpmgats.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://uskpmgats.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://cyclecarriage.avature.net/careers",
+    "foundSitemaps": [
+      "https://cyclecarriage.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://cyclecarriage.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://cyclecarriage.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://cyclecarriage.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://cyclecarriage.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://cchbc.avature.net/careers",
+    "foundSitemaps": [],
+    "checkedUrls": [
+      {
+        "url": "https://cchbc.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://cchbc.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://cchbc.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://cchbc.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://bnc.avature.net/careers",
+    "foundSitemaps": [
+      "https://emplois.bnc.ca/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://bnc.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://bnc.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://bnc.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://bnc.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://jakala.avature.net/careers",
+    "foundSitemaps": [],
+    "checkedUrls": [
+      {
+        "url": "https://jakala.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://jakala.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://jakala.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://jakala.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://bankerslife.avature.net/careers",
+    "foundSitemaps": [],
+    "checkedUrls": [
+      {
+        "url": "https://bankerslife.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://bankerslife.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://bankerslife.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://bankerslife.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://fmlogistic.avature.net/careers",
+    "foundSitemaps": [
+      "https://fmlogistic.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://fmlogistic.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://fmlogistic.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://fmlogistic.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://fmlogistic.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://baloise.avature.net/careers",
+    "foundSitemaps": [
+      "https://careers.baloise.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://baloise.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://baloise.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://baloise.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://baloise.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://broadinstitute.avature.net/careers",
+    "foundSitemaps": [
+      "https://broadinstitute.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://broadinstitute.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://broadinstitute.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://broadinstitute.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://broadinstitute.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://mercadona.avature.net/careers",
+    "foundSitemaps": [
+      "https://mercadona.avature.net/Careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://mercadona.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mercadona.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mercadona.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://mercadona.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://dhlconsulting.avature.net/careers",
+    "foundSitemaps": [
+      "https://dhlconsulting.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://dhlconsulting.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://dhlconsulting.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://dhlconsulting.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://dhlconsulting.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://synopsys.avature.net/careers",
+    "foundSitemaps": [
+      "https://synopsys.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://synopsys.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://synopsys.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://synopsys.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://synopsys.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://sandboxbnc.avature.net/careers",
+    "foundSitemaps": [
+      "https://sandboxbnc.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://sandboxbnc.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxbnc.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxbnc.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxbnc.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://bravura.avature.net/careers",
+    "foundSitemaps": [
+      "https://bravura.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://bravura.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://bravura.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://bravura.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://bravura.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://tescoinsuranceandmoneyservices.avature.net/careers",
+    "foundSitemaps": [
+      "https://tescoinsuranceandmoneyservices.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://tescoinsuranceandmoneyservices.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://tescoinsuranceandmoneyservices.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://tescoinsuranceandmoneyservices.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://tescoinsuranceandmoneyservices.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://sandboxhealthfirst.avature.net/careers",
+    "foundSitemaps": [
+      "https://sandboxhealthfirst.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://sandboxhealthfirst.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxhealthfirst.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxhealthfirst.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://sandboxhealthfirst.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://koch.avature.net/careers",
+    "foundSitemaps": [
+      "https://koch.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://koch.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://koch.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://koch.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://koch.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://devwoolworths1.avature.net/careers",
+    "foundSitemaps": [
+      "https://devwoolworths1.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://devwoolworths1.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://devwoolworths1.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://devwoolworths1.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://devwoolworths1.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://frequentis.avature.net/careers",
+    "foundSitemaps": [
+      "https://jobs.frequentis.com/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://frequentis.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://frequentis.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://frequentis.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://frequentis.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://dfiretailgroup.avature.net/careers",
+    "foundSitemaps": [
+      "https://dfiretailgroup.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://dfiretailgroup.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://dfiretailgroup.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://dfiretailgroup.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://dfiretailgroup.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://primero.avature.net/careers",
+    "foundSitemaps": [
+      "https://primero.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://primero.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://primero.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://primero.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://primero.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://bmcrecruit.avature.net/careers",
+    "foundSitemaps": [
+      "https://jobs.bmc.com/Careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://bmcrecruit.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://bmcrecruit.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://bmcrecruit.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://bmcrecruit.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://rgp.avature.net/careers",
+    "foundSitemaps": [
+      "https://careers.rgp.com/Careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://rgp.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://rgp.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://rgp.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://rgp.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://resourcebank.avature.net/careers",
+    "foundSitemaps": [
+      "https://resourcebank.avature.net/careers/sitemap_index.xml"
+    ],
+    "checkedUrls": [
+      {
+        "url": "https://resourcebank.avature.net/careers/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://resourcebank.avature.net/jobs/sitemap.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://resourcebank.avature.net/careers/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      },
+      {
+        "url": "https://resourcebank.avature.net/jobs/sitemap_index.xml",
+        "status": null,
+        "accessible": false,
+        "error": "Request timeout"
+      }
+    ]
+  }
+]
