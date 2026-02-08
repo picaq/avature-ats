@@ -1,5 +1,11 @@
 # Avature ATS Web Scraper
 
+## install dependencies
+
+```sh
+npm install --save got jsdom
+```
+
 ## Run the subdomain and application URL gathering process
 
 1. filters out all subdomains from WhoisXML API to last seen in 90 days (as of February 7 2026) and has either a response status of OK or redirect. prints results into the console, alongside the number of valid avature subdomains (100 unique subdomains here)
@@ -32,6 +38,8 @@ Unique job URLs: 73645
 koch links needed to be manually extracted from its sitemap via the browser console
 
 93577 job URLs in total
+
+used to generate the **Input File**: `input_file.txt`
 
 # Development Process
 
