@@ -32,10 +32,10 @@ node scrape_sitemaps.js
 ```
 outputs sitemap_data.json and job_urls.txt
 
-Total job URLs found in input_file.txt: 94003
-Unique job URLs: 73645 (? could be from a previous scrape)
+Total job URLs found in input_file.txt: 95250
+Unique job URLs: 74957
 
-koch links needed to be manually extracted from its sitemap via the browser console then appended to the end of job_urls.txt to generate input_file.txt
+koch links needed to be manually extracted from its sitemap via the browser console then manually appended to the end of job_urls.txt to generate input_file.txt. this can be fully automated but is not.
 
 https://koch.avature.net/en_US/careers/sitemap.xml
 this was run on the koch sitemap to generate the kochJobs array in koch_job_urls.js
@@ -45,20 +45,27 @@ const kochJobs = [...document.querySelectorAll('url loc')].map(x => x.innerHTML)
 kochJobs;
 ```
 
-95250 job URLs in total. no time to remove duplicates in large data set
+then input_file.txt gets duplicate links removed
 
-used to generate the **Input File**: `input_file.txt`
+```js
+node set_size.js
+```
+converts input_file.txt to input_file_unique.txt
+
+95250 job URLs in total with duplicates removed to 74957
+
+used to generate the **Input File**: `input_file_unique.txt`
 
 4. convert all job urls into json with data
 
 ```js
-node generateOutputFile.js 
+node generateOutputFile_2.js 
 ```
-to generate structured JSON in `output_file.json` from `input_file.txt`
+to generate structured JSON in `output_file.json` from `input_file_unique.txt`
 
-for 94003 job applicationURLs: 
-94003 seconds is 26.11 hours to generate the output_file.json if 1 second per job application URL fetch
-at 100ms each 9400.3 seconds is 2.61 hours which is more feasible but still takes a very long time.
+for 74957 job applicationURLs: 
+74957 seconds is 20.82 hours to generate the output_file.json if 1 second per job application URL fetch
+at 100ms each 7495.7 seconds is 2.0821 hours which is more feasible assuming ideal conditions... but is still not done.....?
 
 I should have scraped one or two from each subdomain to inspect that the Job Title matched the correct query selector or html tags/classes. I saw in passing that there was a different header in place of Job Title for a series of jobs.
 
