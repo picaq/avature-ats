@@ -71,6 +71,11 @@ If I had more time I should scrape one or two from each subdomain to inspect tha
 
 Printing a truncated version of the description to the console instead of the whole thing would help with checking the Job Title validity/match. The entire job description is too unwieldy for this purpose.
 
+6. stream output to `application_urls.ndjson` instead with a `progress.json` tracker and fetch 6 at a time with concurrency
+
+```js
+node generateOutputFile_2.js 
+```
 # Development Process
 
 ## 1. Avature Site Discovery

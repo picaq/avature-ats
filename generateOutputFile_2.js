@@ -79,9 +79,10 @@ const OUT_ND = 'application_urls.ndjson';
 const PROGRESS_FILE = 'progress.json';
 const FINAL_JSON = 'application_urls.json';
 const FAILURES_JSON = 'failures.json';
-const REQUEST_DELAY = 300; // ms between requests
-const MAX_RETRIES = 3; // retry failed fetches this many times
-const RETRY_DELAY = 1000; // ms between retries
+const REQUEST_DELAY = 100; // ms between requests (reduced from 300)
+const REQUEST_TIMEOUT = 15000; // timeout per request in ms
+const MAX_RETRIES = 2; // retry failed fetches this many times
+const RETRY_DELAY = 200; // ms between retries
 
 // determine where to resume from
 let startIndex = 0;
@@ -115,7 +116,12 @@ console.log(`Starting processing at index ${startIndex} / ${applicationURLs.leng
     };
 
     try {
-      const response = await got(url, { headers: getRandomHeaders(), timeout: { request: 30000 } });
+      console.log(`[${i}/${applicationURLs.length}] Fetching: ${url}`);
+      const response = await got(url, { 
+        headers: getRandomHeaders(), 
+        timeout: { request: REQUEST_TIMEOUT },
+        retry: { limit: 0 }
+      });
       const dom = new JSDOM(response.body);
       const document = dom.window.document;
       const jobTitle = document.querySelector('h2') ? document.querySelector('h2').textContent.trim() : (url.match(/JobDetail\/([^/]+)/) || [])[1] || url;
@@ -126,18 +132,18 @@ console.log(`Starting processing at index ${startIndex} / ${applicationURLs.leng
       const location = document.querySelector('.location') ? document.querySelector('.location').textContent.trim() : '';
 
       obj = { applicationURL: url, jobTitle, jobDescription, DatePosted: datePosted, Location: location };
-      console.log(`Fetched [${i}] ${url} - Title: ${String(jobTitle).slice(0,80)}`);
+      console.log(`✓ [${i}] Title: ${String(jobTitle).slice(0,60)}`);
     } catch (err) {
-      console.log(`Error fetching [${i}] ${url}:`, err.message);
+      console.log(`✗ [${i}] Error: ${err.message}`);
       failed.push({ url, index: i, attempts: 1, lastError: String(err.message) });
     }
 
-    // append NDJSON line and update progress (if fetch failed we still append a blank object for that URL)
+    // append NDJSON line and update progress
     try {
       fs.appendFileSync(OUT_ND, JSON.stringify(obj) + '\n', 'utf8');
       fs.writeFileSync(PROGRESS_FILE, JSON.stringify({ lastProcessed: i }), 'utf8');
     } catch (e) {
-      console.error('Error writing output/progress files:', e.message);
+      console.error('Error writing files:', e.message);
       process.exit(1);
     }
 
@@ -146,13 +152,14 @@ console.log(`Starting processing at index ${startIndex} / ${applicationURLs.leng
 
   // retry failures
   if (failed.length > 0) {
-    console.log(`Retrying ${failed.length} failed fetches up to ${MAX_RETRIES} times`);
+    console.log(`\n🔄 Retrying ${failed.length} failed fetches...`);
     for (let attempt = 1; attempt <= MAX_RETRIES && failed.length > 0; attempt++) {
-      console.log(`Retry pass ${attempt} (${failed.length} items)`);
+      console.log(`\nRetry pass ${attempt}/${MAX_RETRIES} (${failed.length} items)`);
       const stillFailed = [];
       for (const f of failed) {
         try {
-          const response = await got(f.url, { headers: getRandomHeaders(), timeout: { request: 30000 } });
+          console.log(`⟳ Retry [${f.index}]: ${f.url}`);
+          const response = await got(f.url, { headers: getRandomHeaders(), timeout: { request: REQUEST_TIMEOUT }, retry: { limit: 0 } });
           const dom = new JSDOM(response.body);
           const document = dom.window.document;
           const jobTitle = document.querySelector('h2') ? document.querySelector('h2').textContent.trim() : (f.url.match(/JobDetail\/([^/]+)/) || [])[1] || f.url;
@@ -163,9 +170,9 @@ console.log(`Starting processing at index ${startIndex} / ${applicationURLs.leng
           const location = document.querySelector('.location') ? document.querySelector('.location').textContent.trim() : '';
           const obj = { applicationURL: f.url, jobTitle, jobDescription, DatePosted: datePosted, Location: location };
           fs.appendFileSync(OUT_ND, JSON.stringify(obj) + '\n', 'utf8');
-          console.log(`Retry success ${f.index}: ${f.url}`);
+          console.log(`✓ Retry success [${f.index}]`);
         } catch (err) {
-          console.log(`Retry failed for ${f.url}:`, err.message);
+          console.log(`✗ Retry failed [${f.index}]: ${err.message}`);
           f.attempts = (f.attempts || 1) + 1;
           f.lastError = String(err.message);
           stillFailed.push(f);
