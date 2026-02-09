@@ -67,9 +67,9 @@ for 74957 job applicationURLs:
 74957 seconds is 20.82 hours to generate the output_file.json if 1 second per job application URL fetch
 at 100ms each 7495.7 seconds is 2.0821 hours which is more feasible assuming ideal conditions... but is still not done.....?
 
-I should have scraped one or two from each subdomain to inspect that the Job Title matched the correct query selector or html tags/classes. I saw in passing that there was a different header in place of Job Title for a series of jobs.
+If I had more time I should scrape one or two from each subdomain to inspect that the Job Title matched the correct query selector or html tags/classes. I saw in passing that there was a different header in place of Job Title for a series of jobs. I should maybe apply an altered exponential retry logic here.
 
-Printing a truncated version of the description to the console instead of the whole thing would help with checking the Job Title validity/match.
+Printing a truncated version of the description to the console instead of the whole thing would help with checking the Job Title validity/match. The entire job description is too unwieldy for this purpose.
 
 # Development Process
 
