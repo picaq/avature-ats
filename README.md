@@ -45,7 +45,7 @@ const kochJobs = [...document.querySelectorAll('url loc')].map(x => x.innerHTML)
 kochJobs;
 ```
 
-then input_file.txt gets duplicate links removed
+4. then input_file.txt gets duplicate links removed
 
 ```js
 node set_size.js
@@ -56,7 +56,7 @@ converts input_file.txt to input_file_unique.txt
 
 used to generate the **Input File**: `input_file_unique.txt`
 
-4. convert all job urls into json with data
+5. convert all job urls into json with data
 
 ```js
 node generateOutputFile_2.js 
