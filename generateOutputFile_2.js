@@ -79,10 +79,10 @@ const OUT_ND = 'application_urls.ndjson';
 const PROGRESS_FILE = 'progress.json';
 const FINAL_JSON = 'application_urls.json';
 const FAILURES_JSON = 'failures.json';
-const REQUEST_DELAY = 100; // ms between requests (reduced from 300)
+const REQUEST_DELAY = 200; // ms between requests (reduced from 300)
 const REQUEST_TIMEOUT = 15000; // timeout per request in ms
 const MAX_RETRIES = 2; // retry failed fetches this many times
-const RETRY_DELAY = 200; // ms between retries
+const RETRY_DELAY = 300; // ms between retries
 
 // determine where to resume from
 let startIndex = 0;
@@ -177,7 +177,16 @@ console.log(`Starting processing at index ${startIndex} / ${applicationURLs.leng
           f.lastError = String(err.message);
           stillFailed.push(f);
         }
-        await wait(RETRY_DELAY);
+        // exponential backoff with slight jitter
+        try {
+          const backoff = Math.round(RETRY_DELAY * Math.pow(2, attempt - 1));
+          const jitter = Math.round(backoff * (0.2 * Math.random()));
+          const delayMs = backoff + jitter;
+          console.log(`Waiting ${delayMs}ms before next retry`);
+          await wait(delayMs);
+        } catch (e) {
+          // ignore
+        }
       }
       failed.length = 0;
       Array.prototype.push.apply(failed, stillFailed);
