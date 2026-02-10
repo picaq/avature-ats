@@ -1,5 +1,8 @@
 # Avature ATS Web Scraper
 
+Input File: [input_file_unique.txt](https://github.com/picaq/avature-ats/blob/main/input_file_unique.txt)
+Output File: [application_urls.ndjson](https://github.com/picaq/avature-ats/blob/main/application_urls.ndjson)
+
 ## install dependencies
 
 ```sh
