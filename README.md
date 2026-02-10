@@ -1,9 +1,11 @@
 # Avature ATS Web Scraper
 
 Input File: [input_file_unique.txt](https://github.com/picaq/avature-ats/blob/main/input_file_unique.txt) <br>
-Output File: [application_urls.ndjson](https://github.com/picaq/avature-ats/blob/main/application_urls.ndjson) *
+Output File: [application_urls.ndjson](https://github.com/picaq/avature-ats/blob/main/application_urls.ndjson) *
 
-* note: the final output file exceeds 100 MB and must be hosted elsewhere
+\* note: the final output file(s) exceeds 100 MB and must be hosted outside this repo (Dropbox): 
+- [application_urls.ndjson](https://www.dropbox.com/scl/fi/7o51c32mx9jgzk0otbm39/application_urls.ndjson?rlkey=5fefb55e6ghgla2cl6si97vrw&st=xoi1gbnq&dl=0) 
+- [output_file.json](https://www.dropbox.com/scl/fi/6h0ec7yujj09jgvk5x6xa/output_file.json?rlkey=sw3n9fq29mgsvx38dxo85vpey&st=h4s84gt7&dl=0)
 
 ## install dependencies
 
